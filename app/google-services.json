@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "264858678922",
+    "firebase_url": "https://railapp-bee08.firebaseio.com",
+    "project_id": "railapp-bee08",
+    "storage_bucket": "railapp-bee08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264858678922:android:4504db20679905a39c9f73",
+        "android_client_info": {
+          "package_name": "com.group.firebasedataretrival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFQHL-Gc-kSlmapkFQp2FTvvek5WR3uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264858678922:android:b36f2ce78c0127f29c9f73",
+        "android_client_info": {
+          "package_name": "com.group.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFQHL-Gc-kSlmapkFQp2FTvvek5WR3uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264858678922:android:46cd1ced90c5a4e39c9f73",
+        "android_client_info": {
+          "package_name": "com.ratan.collageproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFQHL-Gc-kSlmapkFQp2FTvvek5WR3uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264858678922-f6g5nq6buqcal3v0cqu0hmblrkjb0el5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
